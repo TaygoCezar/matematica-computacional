@@ -129,3 +129,4 @@ def plot_determinante(original_vectors, transformed_vectors, title="Análise do 
     plt.show()
 
     #alterações para manutenção
+    #matplotlib baixado
