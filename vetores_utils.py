@@ -127,3 +127,5 @@ def plot_determinante(original_vectors, transformed_vectors, title="Análise do 
     plt.suptitle(title, fontsize=16)
     plt.tight_layout()
     plt.show()
+
+    #alterações para manutenção
