@@ -4,8 +4,10 @@ import numpy as np
 
 def plot_vectors(vectors, colors=None, labels=None, figsize=(8, 8), title='Vetores no Plano Cartesiano'):
     """
+    Plota vetores no plano cartesiano
+    
     Parâmetros:
-    vectors: lista de tuplas representando os vetores [(x1, y1), (x2, y2), ...]
+    vectors: lista de tuplas, lista de listas OU array NumPy 2D
     colors: lista de cores para cada vetor (opcional)
     labels: lista de labels para cada vetor (opcional)
     figsize: tamanho da figura (opcional)
@@ -19,6 +21,13 @@ def plot_vectors(vectors, colors=None, labels=None, figsize=(8, 8), title='Vetor
     
     # Grade
     plt.grid(True, alpha=0.2)
+    
+    # Converter para formato padrão se for array NumPy
+    if isinstance(vectors, np.ndarray):
+        if vectors.ndim == 2:
+            vectors = [tuple(vetor) for vetor in vectors]
+        elif vectors.ndim == 1:
+            vectors = [tuple(vectors)]
     
     # Valores padrão se não forem fornecidos
     if colors is None:
