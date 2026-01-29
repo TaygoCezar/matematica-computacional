@@ -1,0 +1,373 @@
+﻿country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+Brazil,1985,male,75+ years,129,840300,15.35,Brazil1985,0.576,"222,942,790,435",1898,G.I. Generation
+Brazil,1985,male,55-74 years,535,5364900,9.97,Brazil1985,0.576,"222,942,790,435",1898,G.I. Generation
+Brazil,1985,male,35-54 years,1011,11986300,8.43,Brazil1985,0.576,"222,942,790,435",1898,Silent
+Brazil,1985,male,25-34 years,791,10762900,7.35,Brazil1985,0.576,"222,942,790,435",1898,Boomers
+Brazil,1985,male,15-24 years,661,13834000,4.78,Brazil1985,0.576,"222,942,790,435",1898,Generation X
+Brazil,1985,female,75+ years,32,988100,3.24,Brazil1985,0.576,"222,942,790,435",1898,G.I. Generation
+Brazil,1985,female,55-74 years,148,5650100,2.62,Brazil1985,0.576,"222,942,790,435",1898,G.I. Generation
+Brazil,1985,female,25-34 years,269,10798700,2.49,Brazil1985,0.576,"222,942,790,435",1898,Boomers
+Brazil,1985,female,35-54 years,296,12185200,2.43,Brazil1985,0.576,"222,942,790,435",1898,Silent
+Brazil,1985,female,15-24 years,280,13751800,2.04,Brazil1985,0.576,"222,942,790,435",1898,Generation X
+Brazil,1985,female,5-14 years,41,15622900,0.26,Brazil1985,0.576,"222,942,790,435",1898,Generation X
+Brazil,1985,male,5-14 years,35,15693700,0.22,Brazil1985,0.576,"222,942,790,435",1898,Generation X
+Brazil,1986,male,75+ years,103,823700,12.5,Brazil1986,,"268,137,224,730",2257,G.I. Generation
+Brazil,1986,male,55-74 years,581,5492100,10.58,Brazil1986,,"268,137,224,730",2257,G.I. Generation
+Brazil,1986,male,35-54 years,967,12396000,7.8,Brazil1986,,"268,137,224,730",2257,Silent
+Brazil,1986,male,25-34 years,754,9895200,7.62,Brazil1986,,"268,137,224,730",2257,Boomers
+Brazil,1986,male,15-24 years,685,13347500,5.13,Brazil1986,,"268,137,224,730",2257,Generation X
+Brazil,1986,female,75+ years,33,1079400,3.06,Brazil1986,,"268,137,224,730",2257,G.I. Generation
+Brazil,1986,female,55-74 years,163,6093600,2.67,Brazil1986,,"268,137,224,730",2257,G.I. Generation
+Brazil,1986,female,35-54 years,335,13195700,2.54,Brazil1986,,"268,137,224,730",2257,Silent
+Brazil,1986,female,15-24 years,331,13514000,2.45,Brazil1986,,"268,137,224,730",2257,Generation X
+Brazil,1986,female,25-34 years,257,10614200,2.42,Brazil1986,,"268,137,224,730",2257,Boomers
+Brazil,1986,female,5-14 years,35,16001200,0.22,Brazil1986,,"268,137,224,730",2257,Generation X
+Brazil,1986,male,5-14 years,27,16323800,0.17,Brazil1986,,"268,137,224,730",2257,Generation X
+Brazil,1987,male,75+ years,149,655621,22.73,Brazil1987,,"294,084,112,393",2394,G.I. Generation
+Brazil,1987,male,55-74 years,647,5163568,12.53,Brazil1987,,"294,084,112,393",2394,G.I. Generation
+Brazil,1987,male,35-54 years,1100,12796733,8.6,Brazil1987,,"294,084,112,393",2394,Silent
+Brazil,1987,male,25-34 years,865,11266240,7.68,Brazil1987,,"294,084,112,393",2394,Boomers
+Brazil,1987,male,15-24 years,713,14119488,5.05,Brazil1987,,"294,084,112,393",2394,Generation X
+Brazil,1987,female,55-74 years,197,5891414,3.34,Brazil1987,,"294,084,112,393",2394,G.I. Generation
+Brazil,1987,female,75+ years,28,1018461,2.75,Brazil1987,,"294,084,112,393",2394,G.I. Generation
+Brazil,1987,female,35-54 years,349,13229129,2.64,Brazil1987,,"294,084,112,393",2394,Silent
+Brazil,1987,female,25-34 years,266,11393405,2.33,Brazil1987,,"294,084,112,393",2394,Boomers
+Brazil,1987,female,15-24 years,291,14145640,2.06,Brazil1987,,"294,084,112,393",2394,Generation X
+Brazil,1987,male,5-14 years,35,16751806,0.21,Brazil1987,,"294,084,112,393",2394,Generation X
+Brazil,1987,female,5-14 years,32,16390962,0.2,Brazil1987,,"294,084,112,393",2394,Generation X
+Brazil,1988,male,75+ years,135,675564,19.98,Brazil1988,,"330,397,381,998",2628,G.I. Generation
+Brazil,1988,male,55-74 years,530,5281479,10.04,Brazil1988,,"330,397,381,998",2628,G.I. Generation
+Brazil,1988,male,35-54 years,1115,13244446,8.42,Brazil1988,,"330,397,381,998",2628,Silent
+Brazil,1988,male,25-34 years,849,11593305,7.32,Brazil1988,,"330,397,381,998",2628,Boomers
+Brazil,1988,female,75+ years,52,1057285,4.92,Brazil1988,,"330,397,381,998",2628,G.I. Generation
+Brazil,1988,male,15-24 years,663,14249735,4.65,Brazil1988,,"330,397,381,998",2628,Generation X
+Brazil,1988,female,55-74 years,182,6051315,3.01,Brazil1988,,"330,397,381,998",2628,G.I. Generation
+Brazil,1988,female,35-54 years,333,13714531,2.43,Brazil1988,,"330,397,381,998",2628,Silent
+Brazil,1988,female,25-34 years,266,11741737,2.27,Brazil1988,,"330,397,381,998",2628,Boomers
+Brazil,1988,female,15-24 years,281,14267683,1.97,Brazil1988,,"330,397,381,998",2628,Generation X
+Brazil,1988,male,5-14 years,35,17111833,0.2,Brazil1988,,"330,397,381,998",2628,Generation X
+Brazil,1988,female,5-14 years,25,16712381,0.15,Brazil1988,,"330,397,381,998",2628,Generation X
+Brazil,1989,male,75+ years,141,686864,20.53,Brazil1989,,"425,595,310,000",3310,G.I. Generation
+Brazil,1989,male,55-74 years,543,5415199,10.03,Brazil1989,,"425,595,310,000",3310,G.I. Generation
+Brazil,1989,male,35-54 years,1067,13704169,7.79,Brazil1989,,"425,595,310,000",3310,Silent
+Brazil,1989,male,25-34 years,891,11906533,7.48,Brazil1989,,"425,595,310,000",3310,Boomers
+Brazil,1989,male,15-24 years,722,14394322,5.02,Brazil1989,,"425,595,310,000",3310,Generation X
+Brazil,1989,female,75+ years,44,1090428,4.04,Brazil1989,,"425,595,310,000",3310,G.I. Generation
+Brazil,1989,female,55-74 years,166,6229420,2.66,Brazil1989,,"425,595,310,000",3310,G.I. Generation
+Brazil,1989,female,35-54 years,318,14212092,2.24,Brazil1989,,"425,595,310,000",3310,Silent
+Brazil,1989,female,25-34 years,247,12077302,2.05,Brazil1989,,"425,595,310,000",3310,Boomers
+Brazil,1989,female,15-24 years,261,14396938,1.81,Brazil1989,,"425,595,310,000",3310,Generation X
+Brazil,1989,female,5-14 years,35,17011362,0.21,Brazil1989,,"425,595,310,000",3310,Generation X
+Brazil,1989,male,5-14 years,28,17445679,0.16,Brazil1989,,"425,595,310,000",3310,Generation X
+Brazil,1990,male,75+ years,151,689024,21.92,Brazil1990,0.608,"461,951,782,000",3516,G.I. Generation
+Brazil,1990,male,55-74 years,601,5570146,10.79,Brazil1990,0.608,"461,951,782,000",3516,G.I. Generation
+Brazil,1990,male,35-54 years,1127,14165486,7.96,Brazil1990,0.608,"461,951,782,000",3516,Silent
+Brazil,1990,male,25-34 years,945,12198761,7.75,Brazil1990,0.608,"461,951,782,000",3516,Boomers
+Brazil,1990,male,15-24 years,731,14568361,5.02,Brazil1990,0.608,"461,951,782,000",3516,Generation X
+Brazil,1990,female,75+ years,38,1117615,3.4,Brazil1990,0.608,"461,951,782,000",3516,G.I. Generation
+Brazil,1990,female,55-74 years,196,6431086,3.05,Brazil1990,0.608,"461,951,782,000",3516,G.I. Generation
+Brazil,1990,female,35-54 years,394,14711203,2.68,Brazil1990,0.608,"461,951,782,000",3516,Silent
+Brazil,1990,female,15-24 years,304,14548740,2.09,Brazil1990,0.608,"461,951,782,000",3516,Generation X
+Brazil,1990,female,25-34 years,250,12392001,2.02,Brazil1990,0.608,"461,951,782,000",3516,Boomers
+Brazil,1990,male,5-14 years,34,17729894,0.19,Brazil1990,0.608,"461,951,782,000",3516,Generation X
+Brazil,1990,female,5-14 years,32,17265236,0.19,Brazil1990,0.608,"461,951,782,000",3516,Generation X
+Brazil,1991,male,75+ years,153,725105,21.1,Brazil1991,,"602,860,000,000",4490,G.I. Generation
+Brazil,1991,male,55-74 years,660,5727704,11.52,Brazil1991,,"602,860,000,000",4490,Silent
+Brazil,1991,male,35-54 years,1334,14626951,9.12,Brazil1991,,"602,860,000,000",4490,Boomers
+Brazil,1991,male,25-34 years,1002,12481850,8.03,Brazil1991,,"602,860,000,000",4490,Boomers
+Brazil,1991,male,15-24 years,771,14774615,5.22,Brazil1991,,"602,860,000,000",4490,Generation X
+Brazil,1991,female,55-74 years,222,6630160,3.35,Brazil1991,,"602,860,000,000",4490,Silent
+Brazil,1991,female,75+ years,38,1172662,3.24,Brazil1991,,"602,860,000,000",4490,G.I. Generation
+Brazil,1991,female,35-54 years,331,15218376,2.18,Brazil1991,,"602,860,000,000",4490,Boomers
+Brazil,1991,female,25-34 years,266,12700804,2.09,Brazil1991,,"602,860,000,000",4490,Boomers
+Brazil,1991,female,15-24 years,303,14737389,2.06,Brazil1991,,"602,860,000,000",4490,Generation X
+Brazil,1991,male,5-14 years,41,17989977,0.23,Brazil1991,,"602,860,000,000",4490,Millenials
+Brazil,1991,female,5-14 years,35,17496257,0.2,Brazil1991,,"602,860,000,000",4490,Millenials
+Brazil,1992,male,75+ years,146,754020,19.36,Brazil1992,,"400,599,250,000",2924,G.I. Generation
+Brazil,1992,male,55-74 years,643,5899574,10.9,Brazil1992,,"400,599,250,000",2924,Silent
+Brazil,1992,male,35-54 years,1408,15081747,9.34,Brazil1992,,"400,599,250,000",2924,Boomers
+Brazil,1992,male,25-34 years,981,12740352,7.7,Brazil1992,,"400,599,250,000",2924,Boomers
+Brazil,1992,male,15-24 years,816,14998739,5.44,Brazil1992,,"400,599,250,000",2924,Generation X
+Brazil,1992,female,75+ years,36,1221291,2.95,Brazil1992,,"400,599,250,000",2924,G.I. Generation
+Brazil,1992,female,35-54 years,391,15718299,2.49,Brazil1992,,"400,599,250,000",2924,Boomers
+Brazil,1992,female,55-74 years,166,6848963,2.42,Brazil1992,,"400,599,250,000",2924,Silent
+Brazil,1992,female,25-34 years,262,12985784,2.02,Brazil1992,,"400,599,250,000",2924,Boomers
+Brazil,1992,female,15-24 years,283,14937179,1.89,Brazil1992,,"400,599,250,000",2924,Generation X
+Brazil,1992,male,5-14 years,39,18169763,0.21,Brazil1992,,"400,599,250,000",2924,Millenials
+Brazil,1992,female,5-14 years,36,17651310,0.2,Brazil1992,,"400,599,250,000",2924,Millenials
+Brazil,1993,male,75+ years,168,776516,21.64,Brazil1993,,"437,798,577,640",3136,G.I. Generation
+Brazil,1993,male,55-74 years,628,6082548,10.32,Brazil1993,,"437,798,577,640",3136,Silent
+Brazil,1993,male,25-34 years,1183,12975409,9.12,Brazil1993,,"437,798,577,640",3136,Boomers
+Brazil,1993,male,35-54 years,1374,15546851,8.84,Brazil1993,,"437,798,577,640",3136,Boomers
+Brazil,1993,male,15-24 years,917,15249319,6.01,Brazil1993,,"437,798,577,640",3136,Generation X
+Brazil,1993,female,75+ years,33,1265590,2.61,Brazil1993,,"437,798,577,640",3136,G.I. Generation
+Brazil,1993,female,55-74 years,182,7082827,2.57,Brazil1993,,"437,798,577,640",3136,Silent
+Brazil,1993,female,15-24 years,334,15156899,2.2,Brazil1993,,"437,798,577,640",3136,Generation X
+Brazil,1993,female,35-54 years,346,16228348,2.13,Brazil1993,,"437,798,577,640",3136,Boomers
+Brazil,1993,female,25-34 years,261,13246132,1.97,Brazil1993,,"437,798,577,640",3136,Boomers
+Brazil,1993,male,5-14 years,51,18272195,0.28,Brazil1993,,"437,798,577,640",3136,Millenials
+Brazil,1993,female,5-14 years,31,17732843,0.17,Brazil1993,,"437,798,577,640",3136,Millenials
+Brazil,1994,male,75+ years,180,793671,22.68,Brazil1994,,"558,111,997,497",3925,G.I. Generation
+Brazil,1994,male,55-74 years,725,6270191,11.56,Brazil1994,,"558,111,997,497",3925,Silent
+Brazil,1994,male,25-34 years,1228,13187454,9.31,Brazil1994,,"558,111,997,497",3925,Boomers
+Brazil,1994,male,35-54 years,1436,16047095,8.95,Brazil1994,,"558,111,997,497",3925,Boomers
+Brazil,1994,male,15-24 years,988,15533989,6.36,Brazil1994,,"558,111,997,497",3925,Generation X
+Brazil,1994,female,75+ years,39,1307893,2.98,Brazil1994,,"558,111,997,497",3925,G.I. Generation
+Brazil,1994,female,15-24 years,372,15405279,2.41,Brazil1994,,"558,111,997,497",3925,Generation X
+Brazil,1994,female,55-74 years,174,7323575,2.38,Brazil1994,,"558,111,997,497",3925,Silent
+Brazil,1994,female,35-54 years,369,16774482,2.2,Brazil1994,,"558,111,997,497",3925,Boomers
+Brazil,1994,female,25-34 years,291,13479427,2.16,Brazil1994,,"558,111,997,497",3925,Boomers
+Brazil,1994,male,5-14 years,48,18311628,0.26,Brazil1994,,"558,111,997,497",3925,Millenials
+Brazil,1994,female,5-14 years,46,17753766,0.26,Brazil1994,,"558,111,997,497",3925,Millenials
+Brazil,1995,male,75+ years,180,806015,22.33,Brazil1995,0.648,"769,305,386,183",5313,G.I. Generation
+Brazil,1995,male,55-74 years,812,6459129,12.57,Brazil1995,0.648,"769,305,386,183",5313,Silent
+Brazil,1995,male,35-54 years,1703,16593682,10.26,Brazil1995,0.648,"769,305,386,183",5313,Boomers
+Brazil,1995,male,25-34 years,1318,13377021,9.85,Brazil1995,0.648,"769,305,386,183",5313,Generation X
+Brazil,1995,male,15-24 years,1084,15852481,6.84,Brazil1995,0.648,"769,305,386,183",5313,Generation X
+Brazil,1995,female,75+ years,42,1349701,3.11,Brazil1995,0.648,"769,305,386,183",5313,G.I. Generation
+Brazil,1995,female,55-74 years,208,7566176,2.75,Brazil1995,0.648,"769,305,386,183",5313,Silent
+Brazil,1995,female,35-54 years,450,17368864,2.59,Brazil1995,0.648,"769,305,386,183",5313,Boomers
+Brazil,1995,female,25-34 years,318,13683822,2.32,Brazil1995,0.648,"769,305,386,183",5313,Generation X
+Brazil,1995,female,15-24 years,347,15683286,2.21,Brazil1995,0.648,"769,305,386,183",5313,Generation X
+Brazil,1995,male,5-14 years,38,18309246,0.21,Brazil1995,0.648,"769,305,386,183",5313,Millenials
+Brazil,1995,female,5-14 years,36,17734168,0.2,Brazil1995,0.648,"769,305,386,183",5313,Millenials
+Brazil,1996,male,75+ years,176,861847,20.42,Brazil1996,,"850,426,432,992",5771,G.I. Generation
+Brazil,1996,male,55-74 years,798,6651122,12,Brazil1996,,"850,426,432,992",5771,Silent
+Brazil,1996,male,35-54 years,1827,17150145,10.65,Brazil1996,,"850,426,432,992",5771,Boomers
+Brazil,1996,male,25-34 years,1265,13533249,9.35,Brazil1996,,"850,426,432,992",5771,Generation X
+Brazil,1996,male,15-24 years,1164,16172705,7.2,Brazil1996,,"850,426,432,992",5771,Generation X
+Brazil,1996,female,75+ years,52,1426991,3.64,Brazil1996,,"850,426,432,992",5771,G.I. Generation
+Brazil,1996,female,55-74 years,202,7790591,2.59,Brazil1996,,"850,426,432,992",5771,Silent
+Brazil,1996,female,35-54 years,448,17981388,2.49,Brazil1996,,"850,426,432,992",5771,Boomers
+Brazil,1996,female,15-24 years,347,15978838,2.17,Brazil1996,,"850,426,432,992",5771,Generation X
+Brazil,1996,female,25-34 years,299,13851001,2.16,Brazil1996,,"850,426,432,992",5771,Generation X
+Brazil,1996,male,5-14 years,70,18270623,0.38,Brazil1996,,"850,426,432,992",5771,Millenials
+Brazil,1996,female,5-14 years,50,17684630,0.28,Brazil1996,,"850,426,432,992",5771,Millenials
+Brazil,1997,male,75+ years,219,915653,23.92,Brazil1997,,"883,199,625,325",5891,G.I. Generation
+Brazil,1997,male,55-74 years,895,6842729,13.08,Brazil1997,,"883,199,625,325",5891,Silent
+Brazil,1997,male,35-54 years,1856,17744763,10.46,Brazil1997,,"883,199,625,325",5891,Boomers
+Brazil,1997,male,25-34 years,1349,13664422,9.87,Brazil1997,,"883,199,625,325",5891,Generation X
+Brazil,1997,male,15-24 years,1102,16523208,6.67,Brazil1997,,"883,199,625,325",5891,Generation X
+Brazil,1997,female,75+ years,44,1503183,2.93,Brazil1997,,"883,199,625,325",5891,G.I. Generation
+Brazil,1997,female,35-54 years,507,18634217,2.72,Brazil1997,,"883,199,625,325",5891,Boomers
+Brazil,1997,female,55-74 years,202,8017560,2.52,Brazil1997,,"883,199,625,325",5891,Silent
+Brazil,1997,female,25-34 years,282,13987171,2.02,Brazil1997,,"883,199,625,325",5891,Generation X
+Brazil,1997,female,15-24 years,327,16301577,2.01,Brazil1997,,"883,199,625,325",5891,Generation X
+Brazil,1997,female,5-14 years,55,17600190,0.31,Brazil1997,,"883,199,625,325",5891,Millenials
+Brazil,1997,male,5-14 years,53,18197954,0.29,Brazil1997,,"883,199,625,325",5891,Millenials
+Brazil,1998,male,75+ years,217,968599,22.4,Brazil1998,,"863,723,411,633",5663,G.I. Generation
+Brazil,1998,male,55-74 years,931,7040369,13.22,Brazil1998,,"863,723,411,633",5663,Silent
+Brazil,1998,male,35-54 years,1902,18361729,10.36,Brazil1998,,"863,723,411,633",5663,Boomers
+Brazil,1998,male,25-34 years,1288,13787276,9.34,Brazil1998,,"863,723,411,633",5663,Generation X
+Brazil,1998,male,15-24 years,1089,16881408,6.45,Brazil1998,,"863,723,411,633",5663,Generation X
+Brazil,1998,female,75+ years,55,1580747,3.48,Brazil1998,,"863,723,411,633",5663,G.I. Generation
+Brazil,1998,female,55-74 years,197,8252694,2.39,Brazil1998,,"863,723,411,633",5663,Silent
+Brazil,1998,female,35-54 years,458,19311067,2.37,Brazil1998,,"863,723,411,633",5663,Boomers
+Brazil,1998,female,25-34 years,324,14109075,2.3,Brazil1998,,"863,723,411,633",5663,Generation X
+Brazil,1998,female,15-24 years,364,16629063,2.19,Brazil1998,,"863,723,411,633",5663,Generation X
+Brazil,1998,male,5-14 years,50,18105835,0.28,Brazil1998,,"863,723,411,633",5663,Millenials
+Brazil,1998,female,5-14 years,47,17496449,0.27,Brazil1998,,"863,723,411,633",5663,Millenials
+Brazil,1999,male,75+ years,214,1022378,20.93,Brazil1999,,"599,388,579,986",3864,G.I. Generation
+Brazil,1999,male,55-74 years,818,7252947,11.28,Brazil1999,,"599,388,579,986",3864,Silent
+Brazil,1999,male,35-54 years,1897,18977263,10,Brazil1999,,"599,388,579,986",3864,Boomers
+Brazil,1999,male,25-34 years,1199,13927042,8.61,Brazil1999,,"599,388,579,986",3864,Generation X
+Brazil,1999,male,15-24 years,1103,17212692,6.41,Brazil1999,,"599,388,579,986",3864,Generation X
+Brazil,1999,female,55-74 years,188,8504649,2.21,Brazil1999,,"599,388,579,986",3864,Silent
+Brazil,1999,female,35-54 years,426,19987055,2.13,Brazil1999,,"599,388,579,986",3864,Boomers
+Brazil,1999,female,75+ years,35,1662705,2.11,Brazil1999,,"599,388,579,986",3864,G.I. Generation
+Brazil,1999,female,25-34 years,259,14242229,1.82,Brazil1999,,"599,388,579,986",3864,Generation X
+Brazil,1999,female,15-24 years,281,16927682,1.66,Brazil1999,,"599,388,579,986",3864,Generation X
+Brazil,1999,male,5-14 years,50,18012783,0.28,Brazil1999,,"599,388,579,986",3864,Millenials
+Brazil,1999,female,5-14 years,37,17392648,0.21,Brazil1999,,"599,388,579,986",3864,Millenials
+Brazil,2000,male,75+ years,215,1077633,19.95,Brazil2000,0.683,"655,420,645,477",4156,G.I. Generation
+Brazil,2000,male,55-74 years,900,7486883,12.02,Brazil2000,0.683,"655,420,645,477",4156,Silent
+Brazil,2000,male,35-54 years,1989,19576126,10.16,Brazil2000,0.683,"655,420,645,477",4156,Boomers
+Brazil,2000,male,25-34 years,1200,14100257,8.51,Brazil2000,0.683,"655,420,645,477",4156,Generation X
+Brazil,2000,male,15-24 years,1037,17494250,5.93,Brazil2000,0.683,"655,420,645,477",4156,Generation X
+Brazil,2000,female,75+ years,45,1750820,2.57,Brazil2000,0.683,"655,420,645,477",4156,G.I. Generation
+Brazil,2000,female,55-74 years,220,8779652,2.51,Brazil2000,0.683,"655,420,645,477",4156,Silent
+Brazil,2000,female,35-54 years,456,20645897,2.21,Brazil2000,0.683,"655,420,645,477",4156,Boomers
+Brazil,2000,female,15-24 years,345,17175577,2.01,Brazil2000,0.683,"655,420,645,477",4156,Generation X
+Brazil,2000,female,25-34 years,271,14403448,1.88,Brazil2000,0.683,"655,420,645,477",4156,Generation X
+Brazil,2000,female,5-14 years,43,17298023,0.25,Brazil2000,0.683,"655,420,645,477",4156,Millenials
+Brazil,2000,male,5-14 years,42,17927425,0.23,Brazil2000,0.683,"655,420,645,477",4156,Millenials
+Brazil,2001,male,75+ years,244,1162417,20.99,Brazil2001,,"559,372,276,082",3492,Silent
+Brazil,2001,male,55-74 years,964,7721938,12.48,Brazil2001,,"559,372,276,082",3492,Silent
+Brazil,2001,male,35-54 years,2227,20128463,11.06,Brazil2001,,"559,372,276,082",3492,Boomers
+Brazil,2001,male,25-34 years,1398,14294493,9.78,Brazil2001,,"559,372,276,082",3492,Generation X
+Brazil,2001,male,15-24 years,1262,17698960,7.13,Brazil2001,,"559,372,276,082",3492,Millenials
+Brazil,2001,female,35-54 years,578,21260886,2.72,Brazil2001,,"559,372,276,082",3492,Boomers
+Brazil,2001,female,55-74 years,206,9044684,2.28,Brazil2001,,"559,372,276,082",3492,Silent
+Brazil,2001,female,15-24 years,393,17361833,2.26,Brazil2001,,"559,372,276,082",3492,Millenials
+Brazil,2001,female,75+ years,41,1866958,2.2,Brazil2001,,"559,372,276,082",3492,Silent
+Brazil,2001,female,25-34 years,286,14578443,1.96,Brazil2001,,"559,372,276,082",3492,Generation X
+Brazil,2001,male,5-14 years,58,17846905,0.32,Brazil2001,,"559,372,276,082",3492,Millenials
+Brazil,2001,female,5-14 years,53,17212816,0.31,Brazil2001,,"559,372,276,082",3492,Millenials
+Brazil,2002,male,75+ years,219,1249499,17.53,Brazil2002,,"507,962,487,700",3121,Silent
+Brazil,2002,male,55-74 years,937,7980513,11.74,Brazil2002,,"507,962,487,700",3121,Silent
+Brazil,2002,male,35-54 years,2178,20679204,10.53,Brazil2002,,"507,962,487,700",3121,Boomers
+Brazil,2002,male,25-34 years,1388,14524576,9.56,Brazil2002,,"507,962,487,700",3121,Generation X
+Brazil,2002,male,15-24 years,1226,17863758,6.86,Brazil2002,,"507,962,487,700",3121,Millenials
+Brazil,2002,female,75+ years,62,1988353,3.12,Brazil2002,,"507,962,487,700",3121,Silent
+Brazil,2002,female,35-54 years,607,21872177,2.78,Brazil2002,,"507,962,487,700",3121,Boomers
+Brazil,2002,female,55-74 years,225,9337808,2.41,Brazil2002,,"507,962,487,700",3121,Silent
+Brazil,2002,female,15-24 years,411,17507998,2.35,Brazil2002,,"507,962,487,700",3121,Millenials
+Brazil,2002,female,25-34 years,334,14784790,2.26,Brazil2002,,"507,962,487,700",3121,Generation X
+Brazil,2002,female,5-14 years,55,17166101,0.32,Brazil2002,,"507,962,487,700",3121,Millenials
+Brazil,2002,male,5-14 years,55,17806637,0.31,Brazil2002,,"507,962,487,700",3121,Millenials
+Brazil,2003,male,75+ years,220,1335479,16.47,Brazil2003,,"558,319,920,832",3376,Silent
+Brazil,2003,male,55-74 years,1002,8263894,12.13,Brazil2003,,"558,319,920,832",3376,Silent
+Brazil,2003,male,35-54 years,2299,21219095,10.83,Brazil2003,,"558,319,920,832",3376,Boomers
+Brazil,2003,male,25-34 years,1394,14785559,9.43,Brazil2003,,"558,319,920,832",3376,Generation X
+Brazil,2003,male,15-24 years,1259,17983317,7,Brazil2003,,"558,319,920,832",3376,Millenials
+Brazil,2003,female,35-54 years,559,22469397,2.49,Brazil2003,,"558,319,920,832",3376,Boomers
+Brazil,2003,female,75+ years,51,2111283,2.42,Brazil2003,,"558,319,920,832",3376,Silent
+Brazil,2003,female,15-24 years,413,17607810,2.35,Brazil2003,,"558,319,920,832",3376,Millenials
+Brazil,2003,female,55-74 years,212,9660156,2.19,Brazil2003,,"558,319,920,832",3376,Silent
+Brazil,2003,female,25-34 years,325,15019057,2.16,Brazil2003,,"558,319,920,832",3376,Generation X
+Brazil,2003,male,5-14 years,60,17794355,0.34,Brazil2003,,"558,319,920,832",3376,Millenials
+Brazil,2003,female,5-14 years,45,17147509,0.26,Brazil2003,,"558,319,920,832",3376,Millenials
+Brazil,2004,male,75+ years,270,1415780,19.07,Brazil2004,,"669,316,654,017",3984,Silent
+Brazil,2004,male,55-74 years,994,8573117,11.59,Brazil2004,,"669,316,654,017",3984,Silent
+Brazil,2004,male,35-54 years,2230,21738104,10.26,Brazil2004,,"669,316,654,017",3984,Boomers
+Brazil,2004,male,25-34 years,1475,15070514,9.79,Brazil2004,,"669,316,654,017",3984,Generation X
+Brazil,2004,male,15-24 years,1275,18054195,7.06,Brazil2004,,"669,316,654,017",3984,Millenials
+Brazil,2004,female,35-54 years,606,23041317,2.63,Brazil2004,,"669,316,654,017",3984,Boomers
+Brazil,2004,female,55-74 years,237,10012930,2.37,Brazil2004,,"669,316,654,017",3984,Silent
+Brazil,2004,female,75+ years,51,2230220,2.29,Brazil2004,,"669,316,654,017",3984,Silent
+Brazil,2004,female,15-24 years,403,17657631,2.28,Brazil2004,,"669,316,654,017",3984,Millenials
+Brazil,2004,female,25-34 years,347,15276057,2.27,Brazil2004,,"669,316,654,017",3984,Generation X
+Brazil,2004,female,5-14 years,59,17135875,0.34,Brazil2004,,"669,316,654,017",3984,Millenials
+Brazil,2004,male,5-14 years,48,17787328,0.27,Brazil2004,,"669,316,654,017",3984,Millenials
+Brazil,2005,male,75+ years,297,1488505,19.95,Brazil2005,0.702,"891,630,175,813",5230,Silent
+Brazil,2005,male,55-74 years,1175,8908847,13.19,Brazil2005,0.702,"891,630,175,813",5230,Silent
+Brazil,2005,male,35-54 years,2490,22232378,11.2,Brazil2005,0.702,"891,630,175,813",5230,Boomers
+Brazil,2005,male,25-34 years,1464,15374079,9.52,Brazil2005,0.702,"891,630,175,813",5230,Generation X
+Brazil,2005,male,15-24 years,1247,18077858,6.9,Brazil2005,0.702,"891,630,175,813",5230,Millenials
+Brazil,2005,female,35-54 years,664,23583263,2.82,Brazil2005,0.702,"891,630,175,813",5230,Boomers
+Brazil,2005,female,55-74 years,259,10396739,2.49,Brazil2005,0.702,"891,630,175,813",5230,Silent
+Brazil,2005,female,25-34 years,369,15551589,2.37,Brazil2005,0.702,"891,630,175,813",5230,Generation X
+Brazil,2005,female,15-24 years,405,17659079,2.29,Brazil2005,0.702,"891,630,175,813",5230,Millenials
+Brazil,2005,female,75+ years,53,2343149,2.26,Brazil2005,0.702,"891,630,175,813",5230,Silent
+Brazil,2005,female,5-14 years,54,17107519,0.32,Brazil2005,0.702,"891,630,175,813",5230,Millenials
+Brazil,2005,male,5-14 years,52,17760955,0.29,Brazil2005,0.702,"891,630,175,813",5230,Millenials
+Brazil,2006,male,75+ years,275,1575798,17.45,Brazil2006,,"1,107,640,297,890",6403,Silent
+Brazil,2006,male,55-74 years,1112,9247477,12.02,Brazil2006,,"1,107,640,297,890",6403,Silent
+Brazil,2006,male,35-54 years,2536,22709135,11.17,Brazil2006,,"1,107,640,297,890",6403,Boomers
+Brazil,2006,male,25-34 years,1537,15717099,9.78,Brazil2006,,"1,107,640,297,890",6403,Generation X
+Brazil,2006,male,15-24 years,1293,18063460,7.16,Brazil2006,,"1,107,640,297,890",6403,Millenials
+Brazil,2006,female,35-54 years,708,24105759,2.94,Brazil2006,,"1,107,640,297,890",6403,Boomers
+Brazil,2006,female,55-74 years,265,10786642,2.46,Brazil2006,,"1,107,640,297,890",6403,Silent
+Brazil,2006,female,15-24 years,387,17631557,2.19,Brazil2006,,"1,107,640,297,890",6403,Millenials
+Brazil,2006,female,25-34 years,333,15862415,2.1,Brazil2006,,"1,107,640,297,890",6403,Generation X
+Brazil,2006,female,75+ years,47,2466737,1.91,Brazil2006,,"1,107,640,297,890",6403,Silent
+Brazil,2006,male,5-14 years,64,17731288,0.36,Brazil2006,,"1,107,640,297,890",6403,Millenials
+Brazil,2006,female,5-14 years,61,17077355,0.36,Brazil2006,,"1,107,640,297,890",6403,Millenials
+Brazil,2007,male,75+ years,305,1654216,18.44,Brazil2007,,"1,397,084,345,950",7970,Silent
+Brazil,2007,male,55-74 years,1220,9611434,12.69,Brazil2007,,"1,397,084,345,950",7970,Silent
+Brazil,2007,male,35-54 years,2516,23156759,10.87,Brazil2007,,"1,397,084,345,950",7970,Boomers
+Brazil,2007,male,25-34 years,1609,16075775,10.01,Brazil2007,,"1,397,084,345,950",7970,Generation X
+Brazil,2007,male,15-24 years,1267,17991928,7.04,Brazil2007,,"1,397,084,345,950",7970,Millenials
+Brazil,2007,female,35-54 years,723,24591528,2.94,Brazil2007,,"1,397,084,345,950",7970,Boomers
+Brazil,2007,female,55-74 years,275,11208413,2.45,Brazil2007,,"1,397,084,345,950",7970,Silent
+Brazil,2007,female,25-34 years,392,16189977,2.42,Brazil2007,,"1,397,084,345,950",7970,Generation X
+Brazil,2007,female,15-24 years,379,17547530,2.16,Brazil2007,,"1,397,084,345,950",7970,Millenials
+Brazil,2007,female,75+ years,51,2581330,1.98,Brazil2007,,"1,397,084,345,950",7970,Silent
+Brazil,2007,male,5-14 years,67,17669069,0.38,Brazil2007,,"1,397,084,345,950",7970,Generation Z
+Brazil,2007,female,5-14 years,51,17015233,0.3,Brazil2007,,"1,397,084,345,950",7970,Generation Z
+Brazil,2008,male,75+ years,318,1728094,18.4,Brazil2008,,"1,695,824,571,927",9555,Silent
+Brazil,2008,male,55-74 years,1204,9996938,12.04,Brazil2008,,"1,695,824,571,927",9555,Silent
+Brazil,2008,male,35-54 years,2608,23591045,11.06,Brazil2008,,"1,695,824,571,927",9555,Boomers
+Brazil,2008,male,25-34 years,1706,16430646,10.38,Brazil2008,,"1,695,824,571,927",9555,Generation X
+Brazil,2008,male,15-24 years,1375,17889839,7.69,Brazil2008,,"1,695,824,571,927",9555,Millenials
+Brazil,2008,female,35-54 years,745,25056164,2.97,Brazil2008,,"1,695,824,571,927",9555,Boomers
+Brazil,2008,female,55-74 years,309,11656750,2.65,Brazil2008,,"1,695,824,571,927",9555,Silent
+Brazil,2008,female,15-24 years,398,17432076,2.28,Brazil2008,,"1,695,824,571,927",9555,Millenials
+Brazil,2008,female,25-34 years,365,16515414,2.21,Brazil2008,,"1,695,824,571,927",9555,Generation X
+Brazil,2008,female,75+ years,52,2693428,1.93,Brazil2008,,"1,695,824,571,927",9555,Silent
+Brazil,2008,male,5-14 years,55,17566837,0.31,Brazil2008,,"1,695,824,571,927",9555,Generation Z
+Brazil,2008,female,5-14 years,49,16914401,0.29,Brazil2008,,"1,695,824,571,927",9555,Generation Z
+Brazil,2009,male,75+ years,295,1803127,16.36,Brazil2009,,"1,667,019,780,934",9283,Silent
+Brazil,2009,male,55-74 years,1271,10398573,12.22,Brazil2009,,"1,667,019,780,934",9283,Silent
+Brazil,2009,male,35-54 years,2737,24035191,11.39,Brazil2009,,"1,667,019,780,934",9283,Boomers
+Brazil,2009,male,25-34 years,1838,16753314,10.97,Brazil2009,,"1,667,019,780,934",9283,Generation X
+Brazil,2009,male,15-24 years,1270,17794434,7.14,Brazil2009,,"1,667,019,780,934",9283,Millenials
+Brazil,2009,female,35-54 years,768,25523153,3.01,Brazil2009,,"1,667,019,780,934",9283,Boomers
+Brazil,2009,female,55-74 years,301,12124076,2.48,Brazil2009,,"1,667,019,780,934",9283,Silent
+Brazil,2009,female,25-34 years,351,16810330,2.09,Brazil2009,,"1,667,019,780,934",9283,Generation X
+Brazil,2009,female,75+ years,58,2811556,2.06,Brazil2009,,"1,667,019,780,934",9283,Silent
+Brazil,2009,female,15-24 years,343,17321655,1.98,Brazil2009,,"1,667,019,780,934",9283,Millenials
+Brazil,2009,male,5-14 years,62,17421892,0.36,Brazil2009,,"1,667,019,780,934",9283,Generation Z
+Brazil,2009,female,5-14 years,52,16772250,0.31,Brazil2009,,"1,667,019,780,934",9283,Generation Z
+Brazil,2010,male,75+ years,358,1882113,19.02,Brazil2010,0.737,"2,208,871,646,203",12161,Silent
+Brazil,2010,male,55-74 years,1236,10813388,11.43,Brazil2010,0.737,"2,208,871,646,203",12161,Silent
+Brazil,2010,male,25-34 years,1832,17023785,10.76,Brazil2010,0.737,"2,208,871,646,203",12161,Generation X
+Brazil,2010,male,35-54 years,2586,24501254,10.55,Brazil2010,0.737,"2,208,871,646,203",12161,Generation X
+Brazil,2010,male,15-24 years,1288,17726866,7.27,Brazil2010,0.737,"2,208,871,646,203",12161,Millenials
+Brazil,2010,female,35-54 years,835,26004856,3.21,Brazil2010,0.737,"2,208,871,646,203",12161,Generation X
+Brazil,2010,female,55-74 years,339,12605588,2.69,Brazil2010,0.737,"2,208,871,646,203",12161,Silent
+Brazil,2010,female,75+ years,79,2940677,2.69,Brazil2010,0.737,"2,208,871,646,203",12161,Silent
+Brazil,2010,female,25-34 years,404,17054489,2.37,Brazil2010,0.737,"2,208,871,646,203",12161,Generation X
+Brazil,2010,female,15-24 years,368,17237481,2.13,Brazil2010,0.737,"2,208,871,646,203",12161,Millenials
+Brazil,2010,male,5-14 years,56,17242386,0.32,Brazil2010,0.737,"2,208,871,646,203",12161,Generation Z
+Brazil,2010,female,5-14 years,48,16596829,0.29,Brazil2010,0.737,"2,208,871,646,203",12161,Generation Z
+Brazil,2011,male,75+ years,352,2002447,17.58,Brazil2011,0.742,"2,616,201,578,192",14245,Silent
+Brazil,2011,male,55-74 years,1323,11208705,11.8,Brazil2011,0.742,"2,616,201,578,192",14245,Boomers
+Brazil,2011,male,25-34 years,1907,17249585,11.06,Brazil2011,0.742,"2,616,201,578,192",14245,Millenials
+Brazil,2011,male,35-54 years,2754,24975171,11.03,Brazil2011,0.742,"2,616,201,578,192",14245,Generation X
+Brazil,2011,male,15-24 years,1335,17674787,7.55,Brazil2011,0.742,"2,616,201,578,192",14245,Millenials
+Brazil,2011,female,35-54 years,805,26488792,3.04,Brazil2011,0.742,"2,616,201,578,192",14245,Generation X
+Brazil,2011,female,55-74 years,352,13063915,2.69,Brazil2011,0.742,"2,616,201,578,192",14245,Boomers
+Brazil,2011,female,15-24 years,413,17180849,2.4,Brazil2011,0.742,"2,616,201,578,192",14245,Millenials
+Brazil,2011,female,25-34 years,400,17253232,2.32,Brazil2011,0.742,"2,616,201,578,192",14245,Millenials
+Brazil,2011,female,75+ years,71,3110432,2.28,Brazil2011,0.742,"2,616,201,578,192",14245,Silent
+Brazil,2011,male,5-14 years,63,17044425,0.37,Brazil2011,0.742,"2,616,201,578,192",14245,Generation Z
+Brazil,2011,female,5-14 years,47,16404101,0.29,Brazil2011,0.742,"2,616,201,578,192",14245,Generation Z
+Brazil,2012,male,75+ years,376,2123165,17.71,Brazil2012,0.746,"2,465,188,674,415",13283,Silent
+Brazil,2012,male,55-74 years,1458,11612925,12.55,Brazil2012,0.746,"2,465,188,674,415",13283,Boomers
+Brazil,2012,male,35-54 years,2885,25463652,11.33,Brazil2012,0.746,"2,465,188,674,415",13283,Generation X
+Brazil,2012,male,25-34 years,1930,17418954,11.08,Brazil2012,0.746,"2,465,188,674,415",13283,Millenials
+Brazil,2012,male,15-24 years,1313,17644319,7.44,Brazil2012,0.746,"2,465,188,674,415",13283,Millenials
+Brazil,2012,female,35-54 years,877,26979566,3.25,Brazil2012,0.746,"2,465,188,674,415",13283,Generation X
+Brazil,2012,female,55-74 years,418,13532752,3.09,Brazil2012,0.746,"2,465,188,674,415",13283,Boomers
+Brazil,2012,female,25-34 years,455,17398447,2.62,Brazil2012,0.746,"2,465,188,674,415",13283,Millenials
+Brazil,2012,female,75+ years,80,3285641,2.43,Brazil2012,0.746,"2,465,188,674,415",13283,Silent
+Brazil,2012,female,15-24 years,383,17145894,2.23,Brazil2012,0.746,"2,465,188,674,415",13283,Millenials
+Brazil,2012,male,5-14 years,79,16810876,0.47,Brazil2012,0.746,"2,465,188,674,415",13283,Generation Z
+Brazil,2012,female,5-14 years,41,16175024,0.25,Brazil2012,0.746,"2,465,188,674,415",13283,Generation Z
+Brazil,2013,male,75+ years,370,2240434,16.51,Brazil2013,0.752,"2,472,806,919,902",13191,Silent
+Brazil,2013,male,55-74 years,1474,12036068,12.25,Brazil2013,0.752,"2,472,806,919,902",13191,Boomers
+Brazil,2013,male,35-54 years,3053,25965164,11.76,Brazil2013,0.752,"2,472,806,919,902",13191,Generation X
+Brazil,2013,male,25-34 years,2004,17534209,11.43,Brazil2013,0.752,"2,472,806,919,902",13191,Millenials
+Brazil,2013,male,15-24 years,1317,17627508,7.47,Brazil2013,0.752,"2,472,806,919,902",13191,Millenials
+Brazil,2013,female,35-54 years,897,27475364,3.26,Brazil2013,0.752,"2,472,806,919,902",13191,Generation X
+Brazil,2013,female,55-74 years,433,14022927,3.09,Brazil2013,0.752,"2,472,806,919,902",13191,Boomers
+Brazil,2013,female,75+ years,88,3462431,2.54,Brazil2013,0.752,"2,472,806,919,902",13191,Silent
+Brazil,2013,female,25-34 years,393,17492228,2.25,Brazil2013,0.752,"2,472,806,919,902",13191,Millenials
+Brazil,2013,female,15-24 years,362,17123318,2.11,Brazil2013,0.752,"2,472,806,919,902",13191,Millenials
+Brazil,2013,male,5-14 years,72,16555477,0.43,Brazil2013,0.752,"2,472,806,919,902",13191,Generation Z
+Brazil,2013,female,5-14 years,50,15923724,0.31,Brazil2013,0.752,"2,472,806,919,902",13191,Generation Z
+Brazil,2014,male,75+ years,390,2349303,16.6,Brazil2014,0.755,"2,455,993,625,159",12975,Silent
+Brazil,2014,male,55-74 years,1534,12492114,12.28,Brazil2014,0.755,"2,455,993,625,159",12975,Boomers
+Brazil,2014,male,35-54 years,3050,26475231,11.52,Brazil2014,0.755,"2,455,993,625,159",12975,Generation X
+Brazil,2014,male,25-34 years,1982,17601477,11.26,Brazil2014,0.755,"2,455,993,625,159",12975,Millenials
+Brazil,2014,male,15-24 years,1358,17606681,7.71,Brazil2014,0.755,"2,455,993,625,159",12975,Millenials
+Brazil,2014,female,35-54 years,871,27971096,3.11,Brazil2014,0.755,"2,455,993,625,159",12975,Generation X
+Brazil,2014,female,55-74 years,389,14550395,2.67,Brazil2014,0.755,"2,455,993,625,159",12975,Boomers
+Brazil,2014,female,25-34 years,457,17539955,2.61,Brazil2014,0.755,"2,455,993,625,159",12975,Millenials
+Brazil,2014,female,75+ years,83,3634999,2.28,Brazil2014,0.755,"2,455,993,625,159",12975,Silent
+Brazil,2014,female,15-24 years,371,17094729,2.17,Brazil2014,0.755,"2,455,993,625,159",12975,Millenials
+Brazil,2014,male,5-14 years,84,16299015,0.52,Brazil2014,0.755,"2,455,993,625,159",12975,Generation Z
+Brazil,2014,female,5-14 years,62,15670559,0.4,Brazil2014,0.755,"2,455,993,625,159",12975,Generation Z
+Brazil,2015,male,75+ years,470,2448560,19.19,Brazil2015,,"1,802,214,373,741",9431,Silent
+Brazil,2015,male,55-74 years,1693,12987357,13.04,Brazil2015,,"1,802,214,373,741",9431,Boomers
+Brazil,2015,male,35-54 years,3238,26989063,12,Brazil2015,,"1,802,214,373,741",9431,Generation X
+Brazil,2015,male,25-34 years,1897,17625976,10.76,Brazil2015,,"1,802,214,373,741",9431,Millenials
+Brazil,2015,male,15-24 years,1389,17569045,7.91,Brazil2015,,"1,802,214,373,741",9431,Millenials
+Brazil,2015,female,35-54 years,910,28461855,3.2,Brazil2015,,"1,802,214,373,741",9431,Generation X
+Brazil,2015,female,55-74 years,479,15122216,3.17,Brazil2015,,"1,802,214,373,741",9431,Boomers
+Brazil,2015,female,25-34 years,466,17546090,2.66,Brazil2015,,"1,802,214,373,741",9431,Millenials
+Brazil,2015,female,75+ years,89,3802086,2.34,Brazil2015,,"1,802,214,373,741",9431,Silent
+Brazil,2015,female,15-24 years,397,17047218,2.33,Brazil2015,,"1,802,214,373,741",9431,Millenials
+Brazil,2015,male,5-14 years,79,16057040,0.49,Brazil2015,,"1,802,214,373,741",9431,Generation Z
+Brazil,2015,female,5-14 years,56,15430579,0.36,Brazil2015,,"1,802,214,373,741",9431,Generation Z
